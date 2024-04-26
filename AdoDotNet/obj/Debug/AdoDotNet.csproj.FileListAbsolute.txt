@@ -1,0 +1,7 @@
+C:\Users\Hp\source\repos\DatabaseCommunication\AdoDotNet\bin\Debug\AdoDotNet.exe.config
+C:\Users\Hp\source\repos\DatabaseCommunication\AdoDotNet\bin\Debug\AdoDotNet.exe
+C:\Users\Hp\source\repos\DatabaseCommunication\AdoDotNet\bin\Debug\AdoDotNet.pdb
+C:\Users\Hp\source\repos\DatabaseCommunication\AdoDotNet\obj\Debug\AdoDotNet.csproj.AssemblyReference.cache
+C:\Users\Hp\source\repos\DatabaseCommunication\AdoDotNet\obj\Debug\AdoDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\DatabaseCommunication\AdoDotNet\obj\Debug\AdoDotNet.exe
+C:\Users\Hp\source\repos\DatabaseCommunication\AdoDotNet\obj\Debug\AdoDotNet.pdb
